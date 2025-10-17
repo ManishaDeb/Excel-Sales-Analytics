@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Created a _[customer performance report](https://github.com/SatyapriyaDasgupta/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Created a _[customer performance report](https://github.com/ManishaDeb/Excel-Sales-Analytics/blob/069fc175d42a23d255321b0d1dcc65de27b3f8e4/Customer%20Performance%20Report.pdf)_
 
-    **2.** Conducted a comprehensive comparison between _[market performance and sales targets](https://github.com/SatyapriyaDasgupta/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conducted a comprehensive comparison between _[market performance and sales targets](https://github.com/ManishaDeb/Excel-Sales-Analytics/blob/069fc175d42a23d255321b0d1dcc65de27b3f8e4/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -17,9 +17,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SatyapriyaDasgupta/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/SatyapriyaDasgupta/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ManishaDeb/Excel-Sales-Analytics/blob/069fc175d42a23d255321b0d1dcc65de27b3f8e4/P%26L%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/ManishaDeb/Excel-Sales-Analytics/blob/069fc175d42a23d255321b0d1dcc65de27b3f8e4/P%26L%20By%20Month.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SatyapriyaDasgupta/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ManishaDeb/Excel-Sales-Analytics/blob/069fc175d42a23d255321b0d1dcc65de27b3f8e4/P%26L%20By%20Markets.pdf)_
 
 - **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
